@@ -1,4 +1,4 @@
-# Bro League Rules &amp; Regulations
+# League Rules &amp; Regulations
 Documentation for the Bro League Rules &amp; Regulations
 
 ## Proposing new rules
