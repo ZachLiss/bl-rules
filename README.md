@@ -1,5 +1,5 @@
 # League Rules &amp; Regulations
-Documentation for the Bro League Rules &amp; Regulations
+Documentation for the League Rules &amp; Regulations
 
 ## Proposing new rules
 - Potential new rules can be proposed as an "issue" on github
