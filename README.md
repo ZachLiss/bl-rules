@@ -22,3 +22,6 @@ Documentation for the League Rules &amp; Regulations
 - gameplay & roster rules are as posted on yahoo
 - draft order is completely random
 - trade rejection is up to commish discretion
+
+## 8/13/20 Rules Meeting
+-
