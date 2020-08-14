@@ -24,4 +24,9 @@ Documentation for the League Rules &amp; Regulations
 - trade rejection is up to commish discretion
 
 ## 8/13/20 Rules Meeting
--
+- .5 PPR - *Passed* [Yes: 12 - No: 0]
+- COVID IR - Denied [Yes: 6 - No: X]
+- COVID FAAB - Denied [Yes: 6 - No: X]
+- COVID # of games for full season - *Passed* - Yahoo _must_ include a post season in order for us to crown a champion. If not, there is no champion and previous champion keeps the belt for another year.
+- THEME - *Passed* - Fictional sports characters
+- Character dibs priority reverse draft order - *Passed* - timeline of choices will be discussed
